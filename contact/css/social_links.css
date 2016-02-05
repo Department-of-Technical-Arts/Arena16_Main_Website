@@ -1,0 +1,19 @@
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');a, a:hover{text-decoration:none;}
+.social_desc{opacity:0;-moz-transform:scale(0.95);-ms-transform:scale(0.95);-webkit-transform:scale(0.95);transform:scale(0.95);}
+.social_img_ruthwik{background-image:url('../imgs/ruthwik.jpg');}
+.social_img_ruthwik:hover{background-image:url('../imgs/ruthwik_fade.jpg');}
+.social_img_saketh{background-image:url('../imgs/saketh.jpg');}
+.social_img_saketh:hover{background-image:url('../imgs/saketh_fade.jpg');}
+.social_img_karthik{background-image:url('../imgs/karthik.jpg');}
+.social_img_karthik:hover{background-image:url('../imgs/karthik_fade.jpg');}
+.social_img_saumya{background-image:url('../imgs/saumya.jpg');}
+.social_img_saumya:hover{background-image:url('../imgs/saumya_fade.jpg');}
+.social_img_sasi{background-image:url('../imgs/sasi.jpg');}
+.social_img_sasi:hover{background-image:url('../imgs/sasi_fade.jpg');}
+.social_img_vishnu{background-image:url('../imgs/vishnu.jpg');}
+.social_img_vishnu:hover{background-image:url('../imgs/vishnu_fade.jpg');}
+.social_fade:hover .social_desc{opacity:1;-moz-transform:scale(1);-ms-transform:scale(1);-webkit-transform:scale(1);transform:scale(1);}
+.socialbtns, .socialbtns ul, .socialbtns li{margin:0;padding:5px;}
+.socialbtns li{list-style:none outside none;display:inline-block;}
+.socialbtns .fa{width:40px;height:40px;color:#fff;background-color:#041424;border:1px solid #fff;padding-top:12px;border-radius:22px;-moz-border-radius:22px;-webkit-border-radius:22px;-o-border-radius:22px;}
+.socialbtns .fa:hover{color:#041424;background-color:#fff;border:1px solid #fff;}
